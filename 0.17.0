@@ -1,0 +1,5 @@
+Collecting scipy
+  Downloading scipy-1.5.4-cp36-cp36m-win32.whl (28.3 MB)
+Requirement already satisfied: numpy>=1.14.5 in d:\program files\python\python36-32\lib\site-packages (from scipy) (1.19.5)
+Installing collected packages: scipy
+Successfully installed scipy-1.5.4

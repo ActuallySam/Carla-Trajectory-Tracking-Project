@@ -1,0 +1,5 @@
+Collecting protobuf
+  Downloading protobuf-3.17.3-cp36-cp36m-win32.whl (786 kB)
+Requirement already satisfied: six>=1.9 in d:\program files\python\python36-32\lib\site-packages (from protobuf) (1.16.0)
+Installing collected packages: protobuf
+Successfully installed protobuf-3.17.3
